@@ -1,0 +1,8 @@
+.idea
+*.zip
+*.pt
+*.csv
+data/
+csv_files/
+__pycache__
+test.py
